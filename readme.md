@@ -5,6 +5,7 @@
 - 🎓 计算机视觉方向研究生，研究 Reasoning Image Segmentation
 - 📱 开源开发者，做过 Flutter 应用、WebGL shader、Rust 工具、爬虫工具
 - 🌐 个人博客：[taoran.weppp.cyou](https://taoran.weppp.cyou)
+- 🏄‍ 个人简介：[Personal](http://person.weppp.cyou/)
 - 🎮 漫画、番剧爱好者/Overwatch/Minecraft/Terraria/LoL
 
 ## 我在做的东西
@@ -19,7 +20,7 @@
 
 ## 技术栈
 
-`Flutter` `Dart` `Rust` `GLSL / WebGL` `React` `TypeScript` `Python` ...
+`Flutter` `Dart` `Rust` `React` `TypeScript` `Python` ...
 
 ---
 
