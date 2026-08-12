@@ -12,11 +12,14 @@
 
 | 项目 | 简介 |
 |------|------|
-| [EZVenera](https://github.com/WEP-56/EZVenera) | Flutter 漫画阅读器，100+ ⭐ |
-| [BiliTune](https://github.com/WEP-56/BiliTune) | 以 Bilibili 为音源的 Flutter 音乐播放器 |
-| [JAVBUS](https://github.com/WEP-56/JAVBUS) | Flutter 资源搜索工具，JSON 插件驱动 |
-| [Lofi-Radio_flutter](https://github.com/WEP-56/Lofi-Radio_flutter) | 移动端高颜值黑胶电台播放器 |
-| [Coding_agent](https://github.com/WEP-56/Coding_agent-Implementation-from-Scratch) | 使用python从零实现的coding agent |
+| [EZVenera](https://github.com/WEP-56/EZVenera) | Flutter 漫画阅读器，200+ ⭐ |
+| [BiliTune](https://github.com/WEP-56/BiliTune) | 以 Bilibili Api为音源的 Flutter 音乐播放器 |
+| [JAVBUS](https://github.com/WEP-56/JAVBUS) | Flutter BT资源搜索工具，JSON 插件驱动 |
+| [TTTTV](https://github.com/WEP-56/TTTTV-Flutter) | 影视、番剧、综艺，一应俱全 |
+| [onemore](https://github.com/WEP-56/onemore) | 稳健可靠的coding agent |
+| [FLSing](https://github.com/WEP-56/FLsing) | 安卓singbox客户端 |
+| [WepSeed](https://github.com/WEP-56/wepseed) | 精致完善的RSS阅读器 |
+
 
 ## 技术栈
 
@@ -43,7 +46,6 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Tauri](https://img.shields.io/badge/Tauri-000000?style=flat&logo=tauri&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux%20%2F%20VPS-6DB33F?style=flat&logo=linux&logoColor=white)
