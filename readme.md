@@ -3,10 +3,9 @@
 ## 关于我
 
 - 🎓 计算机视觉方向研究生，研究 Reasoning Image Segmentation
-- 📱 开源开发者，做过 Flutter 应用、WebGL shader、Rust 工具、爬虫工具
+- 📱 开源开发者，会做我真正需要的东西
 - 🌐 个人博客：[taoran.weppp.cyou](https://taoran.weppp.cyou)
-- 🏄‍ 个人简介：[Personal](http://person.weppp.cyou/)
-- 🎮 漫画、番剧爱好者/Overwatch/Minecraft/Terraria/LoL
+
 
 ## 我在做的东西
 
