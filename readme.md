@@ -35,20 +35,7 @@
 
 ![](https://streak-stats.demolab.com?user=WEP-56&theme=tokyonight)
 
-## 略懂这些
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-DEA584?style=flat&logo=rust&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3572A5?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat&logo=javascript&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-54C5F8?style=flat&logo=flutter&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tauri](https://img.shields.io/badge/Tauri-000000?style=flat&logo=tauri&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux%20%2F%20VPS-6DB33F?style=flat&logo=linux&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL%20%2F%20WebGPU-2B2D42?style=flat)
-![PyTorch](https://img.shields.io/badge/PyTorch-FF6F00?style=flat&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+## Buy me a cofi
+如果我的任何项目对你有所帮助，可以请我喝杯咖啡。万分感谢！
+<img width="750" height="1070" alt="afdian-WEP-56" src="https://github.com/user-attachments/assets/0f76bccc-b478-4e1b-84bd-5cffe6902812" />
