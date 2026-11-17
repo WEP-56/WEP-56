@@ -38,4 +38,4 @@
 
 ## Buy me a cofi
 如果我的任何项目对你有所帮助，可以请我喝杯咖啡。万分感谢！
-<img width="750" height="1070" alt="afdian-WEP-56" src="https://github.com/user-attachments/assets/0f76bccc-b478-4e1b-84bd-5cffe6902812" />
+<img width="300" height="500" alt="afdian-WEP-56" src="https://github.com/user-attachments/assets/0f76bccc-b478-4e1b-84bd-5cffe6902812" />
